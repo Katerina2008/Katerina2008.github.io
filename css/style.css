@@ -1,0 +1,10 @@
+h1 {
+	color: white;
+	background-color: lightpink;
+	width: 150px;
+	font-weight: 50;
+	}
+		.card {
+		border-color: #ccc;
+		margin: 20px 10px 20px 10px;
+			}
